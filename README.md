@@ -1,11 +1,7 @@
 ## Github
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpha2048" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha2048" />
-</a>
+[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=alpha2048)](https://github.com/anuraghazra/github-readme-stats)
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha2048)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Qiita
 
