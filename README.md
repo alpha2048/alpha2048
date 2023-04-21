@@ -1,3 +1,7 @@
+## Blog
+
+https://alpha2048.hatenablog.com/
+
 ## Profile / Curriculum Vitae
 
 https://github.com/alpha2048/Curriculum-Vitae
