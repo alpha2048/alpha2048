@@ -2,6 +2,10 @@
 
 https://alpha2048.hatenablog.com/
 
+## X
+
+https://twitter.com/alpha2048_dev
+
 ## Profile / Curriculum Vitae
 
 https://github.com/alpha2048/Curriculum-Vitae
