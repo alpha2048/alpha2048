@@ -8,7 +8,7 @@ https://twitter.com/alpha2048_dev
 
 ## Profile / Curriculum Vitae
 
-https://github.com/alpha2048/Curriculum-Vitae
+https://alpha2048.notion.site/alpha2048-4d4021d26c154772aeeab680e1f86a68
 
 ## Github
 
