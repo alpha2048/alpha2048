@@ -12,9 +12,8 @@ https://alpha2048.com/
 
 ## Github
 
-<!-- [![github-readme-stats](https://github-readme-stats.vercel.app/api?username=alpha2048)](https://github.com/anuraghazra/github-readme-stats) -->
+[![github-readme-stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alpha2048)](https://github.com/anuraghazra/github-readme-stats)
 
-[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha2048)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Qiita
 
