@@ -8,7 +8,7 @@ https://twitter.com/alpha2048_dev
 
 ## Profile / Curriculum Vitae
 
-https://alpha2048.notion.site/alpha2048-4d4021d26c154772aeeab680e1f86a68
+https://alpha2048.com/
 
 ## Github
 
@@ -22,6 +22,9 @@ https://alpha2048.notion.site/alpha2048-4d4021d26c154772aeeab680e1f86a68
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/alpha2048/contributions.svg)](http://qiita.com/alpha2048)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/alpha2048/followers.svg)](http://qiita.com/alpha2048)
 
+## Service
+
+[いろコピ - カラーコード変換ツール](https://irocopy.pages.dev/)
 
 ----------------------------
 
